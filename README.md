@@ -13,8 +13,9 @@
   <img align="left" width="26px" src="./assets/gmail.png" />
 </a>
 <a href="https://medium.com/@nishankpr">
-  <img align="left" width="26px" src="./assets/medium-1.png" />
+  <img align="left" width="26px" src="./assets/medium.png" />
 </a>
+<hr>
 
 ### My Experiences
 - [Content writer](https://www.omio.com/) - Omio is a German online travel comparison and booking website.
