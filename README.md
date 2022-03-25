@@ -3,6 +3,7 @@
 
 ## Web development | Design | DevOps
 
+<p>
 <a href="https://www.linkedin.com/in/nishank-priydarshi-2526551ba/">
   <img align="left" width="24px" src="./assets/linkedin.png"  />
 </a>
@@ -15,6 +16,7 @@
 <a href="https://medium.com/@nishankpr">
   <img align="left" width="26px" src="./assets/medium.png" />
 </a>
+</P>
 <hr>
 
 ### My Experiences
