@@ -1,5 +1,7 @@
 ## Hey <img src="./assets/Hi.gif" width="29px">, I'm [Nishank!](https://nishank-priydarshi.netlify.app/)
 
+## Web development | Design | DevOps
+
 ```
                                                                                 ## #
                          ^                             ^                       # #                      
@@ -8,8 +10,6 @@
  /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
  .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
 ```
-
-## Web development | Design | DevOps
 
 <a href="https://www.linkedin.com/in/nishank-priydarshi-2526551ba/">
   <img align="left" width="24px" src="./assets/linkedin.png"  />
