@@ -1,4 +1,4 @@
-## Hey <img src="./assets/Hi.gif" width="29px">, I'm [Nishank!](https://nishank-priydarshi.netlify.app/)
+## Hey <img src="./assets/Hi.gif" width="29px">, I'm [Nishank!](themillenniumfalcon.github.io)
 
 ## Web development | Design | DevOps
 
@@ -11,7 +11,7 @@
  .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
 ```
 
-<a href="https://www.linkedin.com/in/nishank-priydarshi-2526551ba/">
+<a href="https://www.linkedin.com/in/nshvnk">
   <img align="left" width="24px" src="./assets/linkedin.png"  />
 </a>
 <a href="https://twitter.com/nishankstwt">
