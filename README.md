@@ -24,4 +24,3 @@
   <img align="left" width="26px" src="./assets/medium.png" />
 </a>
 <br>
-<hr>
