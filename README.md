@@ -1,4 +1,4 @@
-## Hey <img src="./assets/Hi.gif" width="29px">, I'm [Nishank!](https://themillenniumfalcon.github.io)
+## Hey <img src="./assets/Hi.gif" width="29px">, I'm [Nishank!](https://nishank.vercel.app)
 
 ## Full Stack | Infra
 
