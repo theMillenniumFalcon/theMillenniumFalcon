@@ -3,5 +3,5 @@
 ## Full Stack | Infra
 
 <p align="center">
-    <img src="./assets/banner.jpeg" alt="banner" style="max-height:200px; width:auto;" />
+        <img src="./assets/banner.jpeg" alt="banner" style="max-height:120px; width:auto;" />
 </p>
